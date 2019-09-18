@@ -1,4 +1,4 @@
-# Self-Project
+# Early-SelfProject
 
 Various Early Kaggle projects with data exploring and predictive modeling.
 
